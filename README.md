@@ -1,4 +1,6 @@
 # Regression-Decision-Tree-App
+Link of the app where you may use it: https://shareknowledge2learn.shinyapps.io/Regression_Tree_shiny_app/ 
+
 This Shiny app performs regression tree analysis, allowing users to upload a dataset, select a target variable, and choose exploratory variables for model building. The app visualizes the regression tree, calculates model accuracy using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE), and provides predictions for new data. Additionally, it offers insights into variable importance, highlighting the most influential predictors in the model. Users can easily upload both training and new datasets in CSV or Excel format to generate, evaluate, and predict using the regression tree model.
 
 ![image](https://github.com/user-attachments/assets/11fb78b1-b80b-4104-84d8-6b365f285e3f)
